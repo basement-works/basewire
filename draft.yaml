@@ -1,0 +1,11 @@
+# this is Laravel Blueprint draft file
+# for more information please read the documentation https://blueprint.laravelshift.com/
+
+model:
+  # write some model here
+
+controllers:
+  # write some controller here
+
+seeders: 
+  User
